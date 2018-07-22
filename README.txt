@@ -1,1 +1,3 @@
-Prosta aplikacja w JavaFx wykonana z pomoc¹ jednego z tutoriali na youtubie. Jej celem by³a nauka podstaw w JavieFx oraz SceneBuildera. Zawiera obs³ugê przycisków oraz umiejêtnoœæ stworzenia aplikacji sk³adaj¹cej siê z kilku okienek.
+Prosta aplikacja w JavaFx wykonana z pomocÄ… jednego z tutoriali na youtubie. 
+Jej celem byÅ‚a nauka podstaw w JavieFx oraz SceneBuildera. Zawiera obsÅ‚ugÄ™ przyciskÃ³w oraz 
+umiejÄ™tnoÅ›Ä‡ stworzenia aplikacji skÅ‚adajÄ…cej siÄ™ z kilku okienek.
